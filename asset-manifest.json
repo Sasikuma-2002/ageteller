@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ageteller/static/css/main.375a9621.css",
+    "main.js": "/ageteller/static/js/main.ac436890.js",
+    "static/media/partyPopper.jpg": "/ageteller/static/media/partyPopper.4bf4154088123ef9e5b2.jpg",
+    "index.html": "/ageteller/index.html",
+    "main.375a9621.css.map": "/ageteller/static/css/main.375a9621.css.map",
+    "main.ac436890.js.map": "/ageteller/static/js/main.ac436890.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.375a9621.css",
+    "static/js/main.ac436890.js"
+  ]
+}
